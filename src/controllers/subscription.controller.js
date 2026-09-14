@@ -56,4 +56,4 @@ const updateSubscription = async (req, res) => {
 //delete a subscriber
 //get all user subscription
 //cancle a subscriber
-//reenewal a subscriber
+//reenewal a subscribe
