@@ -1,0 +1,6 @@
+{
+  "simpleBrowser.focusLockIndicator.enabled": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.browser.openLocalhostLinks": false,
+  "files.simpleDialog.enable": true
+}
